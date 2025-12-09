@@ -1,7 +1,5 @@
-👋 Hi, I'm Kali  
+# Welcome to My GitHub Profile 👋
 
-📊 Data-driven analyst passionate about turning numbers into strategy and stories  
-📈 Building ROI models across healthcare, urban planning, and small business growth  
-🧠 Lifelong learner sharpening skills in Excel, Power BI, Python, and SQL  
-🌍 Interested in the intersection of finance, technology, and impact investing  
-🤝 Let’s connect: LinkedIn @Kalilewis420  
+This repository hosts my profile README, which appears at the top of my GitHub page.  
+It’s a space to introduce myself, highlight my skills, and share projects or interests.  
+I use it to showcase my background in finance, data analysis, and technology, along with links to connect.  
